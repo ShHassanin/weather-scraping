@@ -1,2 +1,2 @@
-# weather-scraping
-weather scraping
+# weather-api
+weather api data into CSV
